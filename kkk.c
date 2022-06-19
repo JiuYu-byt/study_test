@@ -8,5 +8,6 @@ int main(void)
 	for(int i=1;i<=100;i++)
 		sum+=i;
 	printf("sum=%d\n",sum);	
+	printf("哈哈\n");
 	return 0;
 }
